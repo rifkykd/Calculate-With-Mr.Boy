@@ -1,5 +1,5 @@
 # Calculate with Mr.Boy
-<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-Gallery Hack-brightgreen?style=for-the-badge&logo=appveyor"></a>
+
 ## screenshot
 <img src="img.png"/>
 
