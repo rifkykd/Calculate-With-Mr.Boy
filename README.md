@@ -12,7 +12,7 @@ New Vesion Calculater You Can Use It Easy.
 ## External Requirements :
 * ` You need a Text Editor
  
- ` You need a Browser
+* ` You need a Browser
 
 
 
