@@ -7,7 +7,7 @@
 <br>
 
 * This is a Calculater Created By Rifky KD (Owner of the Mr.Boy Creations)
-✓ New Vesion Calculater You Can Use It Easy.
+* New Vesion Calculater You Can Use It Easy.
 
 ## External Requirements :
 * ` You need a Text Editor
