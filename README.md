@@ -33,7 +33,7 @@ https://rifkykd.github.io/Calculate-With-Mr.Boy/
   <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
 </a>
 <br/>
-°°°°°
+
 
 
 
