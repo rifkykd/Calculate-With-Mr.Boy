@@ -13,9 +13,9 @@ New Vesion Calculater You Can Use It Easy.
 * ` You need a Text Editor
  
 * ` You need a Browser
-<br>
-FOLLOW ME ON
 
+CCONNECT WITH ME
+<br>
 
 <a href="https://twitter.com/Rifky54641898">
   <img align="left" alt="Rifky KD| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
