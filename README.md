@@ -14,7 +14,7 @@ New Vesion Calculater You Can Use It Easy.
  
 * ` You need a Browser
 
-CCONNECT WITH ME
+## CONNECT WITH ME
 <br>
 
 <a href="https://twitter.com/Rifky54641898">
