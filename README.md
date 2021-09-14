@@ -44,7 +44,7 @@ https://rifkykd.github.io/Calculate-With-Mr.Boy/
 <br/>
 
 ### My Projects
-- [**Fake-Mailer**](https://github.com/Fake-Mailer)
+- [**Fake-Mailer**](https://github.com/rifkykd/Fake-Mailer)
 - [**KD-Host**](https://github.com/rifkykd/KD-Host)
 - [**KD-HACKERS**](https://github.com/rifkykd/KD-HACKERS)
 - [**Unfollow-By-KD**](https://github.com/rifkykd/Unfollow-By-KD)
