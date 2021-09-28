@@ -53,7 +53,7 @@ https://rifkykd.github.io/Calculate-With-Mr.Boy/
 <a href="https://github.com/rifkykd/Unfollow-By-KD"><img title="Unfollow-By-KD" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Unfollow-By-KD&theme=highcontrast"></a>
 <a href="https://github.com/rifkykd/Animated-Login-Page"><img title="Animated-Login-Page" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Animated-Login-Page&theme=highcontrast"></a>
 <a href="https://github.com/rifkykd/Calculate-With-Mr.Boy"><img title="Calculate-With-Mr.Boy" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Calculate-With-Mr.Boy&theme=highcontrast"></a>
-</p>culate-With-Mr.Boy**](https://github.com/rifkykd/Calculate-With-Mr.Boy)
+</p>
 
 
 
