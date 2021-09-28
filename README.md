@@ -6,13 +6,13 @@
 
 <br>
 
-* This is a Calculater Created By Rifky KD (Owner of the Mr.Boy Creations)
+* This is a Calculater Created By Rifky KD
 * New Vesion Calculater You Can Use It Easy.
 
 ## External Requirements :
-* ` You need a Text Editor
+*  You need a Text Editor
  
-* ` You need a Browser
+*  You need a Browser
 ## DEMO
 
 https://rifkykd.github.io/Calculate-With-Mr.Boy/
