@@ -20,7 +20,6 @@ https://rifkykd.github.io/Calculate-With-Mr.Boy/
 ### This Tool Was Developed By :
 
 - [**Rifky**](https://github.com/rifkykd)
-<h3 align="center">Educational Purpose Only</h3>
 <h3 align="left">Connect with me</h3>
 <a href="https://twitter.com/Rifky54641898">
   <img align="left" alt="Rifky KD| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="blank"/>
@@ -43,7 +42,7 @@ https://rifkykd.github.io/Calculate-With-Mr.Boy/
 <br>
 <br>                                                                                                                
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd/Unfollow-By-KD" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd/Calculate-With-Mr.Boy" alt="visitor badge"/>
 </p>
 
          
